@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "libertydog-180823",
+  "private_key_id": "ed372683f56c7168654b0cbade112c3f8c7cf838",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvQfVWr1UchjIQ\nNU5TBEIshWIPvvhRCwTDrqQCCR9BGwhnQ5jjMndkyCUhqd8HGToAxrOf2nsrMAx+\nSa8GW9J8tOkcP86umyNSSE0k8fieHkOnVFq3opB9kvNlwVpqM0m8AnMrFZjtEDiM\nrfXZzDk1BEU2dMdmKGYQLa0ysbEw8l+z22j+X1cMoTNYYs9rKIobqJA42PHB+GKm\nj5kJwcQnl3TX8Kr3WJ5RSoFt87nn/7Fzan5YOG1bC0TXNuUWtTUXs6Rhup7FIxX0\nbiNOX2RNdhQBKlZUBlIjJSuoCmVKDWPoAuArlTNuskkUVyGjzJxbn/1QNkXWTqv/\nIlFzWbUVAgMBAAECggEAB8SoO0Et1mB/7OnFS2/TG4KG5/n9OX3xwsjpH635m8ko\nvU6TgvBSmnbEoFlcjPBxT/PwiWjpTLYYEI8sb1ENRvKvqZRxkUSdVtodkUIaOFnC\nns83RGVeexX9uwFakmGeQxADZ0V8BVtStJRIf6mRQyE3/mAnoSMiKhyG23TTFAZ6\n+XFeR4Voujs322WExfkF4DU+T4W9cpHZvulFzKp0u1tARXH2nuvurzPPOAaAbXSq\neflnI7ddBQPg44BXjilsx26b1lB41v1hB/NHhGdLzNe0VUUJZy1f1hRIljQQWGmb\n1+7jkjAdhx0VUibeeWM+ARt3QByLeYYZyyveYwDlgQKBgQDjiWiJ1F52CN3l71FT\nHRggLoZoyAWU5VBCk5USFgMxbw7KccQcCr9AkamHIoHJ2f7aoOXSR3NjaX+pOpwW\nevPzf72t/4+1e+r9CrQktV6RNcvdWH+DWOxIj6hlzkIxlm9AtLKI8sCrXbQDlRjY\nRRwf+7ltUibVJZR1bEUZTzRVcwKBgQDFLl/cWA2MIX73cSIT47jjKMj7d1y3d/qz\nv10gv90oTJbWhNdc3kYSWUJ82uvdsFXWyRbninpmEl33ZalX08GzuyXtzX++pAKX\nqPR6yYThTE+N4LaI5VqYJ84LveBg+gaTPaX3Pp2QrEJEd77brYAMwUxx/PFHQ7PP\nh2XvE0npVwKBgH2xS1FQQno7vbCmOiuKl+g3K0K4s/SjlGmisyeRh2QIcIg+vlGr\nUikuDhM7aa0CwnkthqdZlxFklwP5/32foCF0AGkdEtrzQEVWY1sf4cSfjiWRHKeH\nOMeArErI3OIdswlwiGuEhhBkK+wKsfXOf5HfcXhFeHQoVVFkZOttSICnAoGBAJHb\n1x9op0TUdlZWAs5Rsq+euOWDiztQbkxOr3YNV2x7E01GYQUaix0BmDRBwR5xVV4X\nzHCkuBwPVCEwu47zXqM0Oj9ptyhvrFdBrO+zaC88wtCBvKURe+137Gw1Hei+quR6\nQu3dDLM7KZ36Ml3QPxuwVXswj86Wn0lRsC6kxxTrAoGBAK7z3ZeOkifEzuqAX/9R\nC3bZy2PQNxVmVNfs22wiiRZi6j/QJsrYnsYLZkq05aNcrlfGQJ94q4c9KpNjmC6D\ndLEM1QRDGrVqf2v6fkhbMBXNbRa+U3QoiPWXdDXqgeCmfYA9A/w11T4x44X0CYaG\nxsGd6tpV2QrP/goN17pnMp2n\n-----END PRIVATE KEY-----\n",
+  "client_email": "calendarlibertydog@libertydog-180823.iam.gserviceaccount.com",
+  "client_id": "106041064253408576774",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/calendarlibertydog%40libertydog-180823.iam.gserviceaccount.com"
+}
